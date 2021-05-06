@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @harshagv-mox
-- 👀 I’m interested in AWS, and 
+- 👀 I’m interested in AWS, and Kubernetes, Terraform
 - 🌱 I’m currently learning TFE, Vault and Datadog
 - 📫 How to reach me. Slack me :-D
 
