@@ -8,5 +8,5 @@ harshagv-mox/harshagv-mox is a ✨ special ✨ repository because its `README.md
 You can click the Preview link to take a look at your changes.
 --->
 
-![alt-text-1](Homepage_Desktop_IMG_01.png "mox-mobileapp") ![alt-text-2](Applepay_Googlepay_Desktop_IMG.png "mox-card")
+![alt-text-1](Homepage_Desktop_IMG_01.jpeg "mox-mobileapp") ![alt-text-2](Applepay_Googlepay_Desktop_IMG.jpeg "mox-card")
 
