@@ -13,5 +13,5 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
   <img width="150" height="150" src="https://github.com/harshagv-mox/harshagv-mox/blob/main/imgs/Applepay_Googlepay_Desktop_IMG.jpeg">
-  <img width="150" height="150" src="https://github.com/harshagv-mox/harshagv-mox/blob/main/img/Applepay_Googlepay_Desktop_IMG.jpeg">
+  <img width="150" height="150" src="https://github.com/harshagv-mox/harshagv-mox/blob/main/imgs/Homepage_Desktop_IMG_01.jpeg">
 </p>
