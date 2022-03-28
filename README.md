@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @harshagv-mox
 - 👀 I’m interested in DevSecOps, AWS, Kubernetes and Terraform
 - 🌱 I’m currently learning TFE and Vault
-- 📫 How to reach me. Slack me :-D
+- 📫 How to reach me? Slack me [here](<https://app.slack.com/client/TA4PCJCJU/D01ET0U6TU2>) :-D
 
 <!---
 harshagv-mox/harshagv-mox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
