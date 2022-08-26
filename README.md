@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @harshagv-mox
-- 👀 I’m interested in DevSecOps, AWS, Kubernetes and Terraform
-- 🌱 I’m currently learning TFE and Vault
+- 👀 I’m interested in DevSecOps, GitOps, Kubernetes, ServiceMesh, Hashicorp Vault, AWS, IaC-Terraform, Golang and Python 
+- 🌱 I’m currently doing deep dive learning of Istio and Hashicorp Vault
 - 📫 How to reach me? Slack me 😉
 
 <!---
